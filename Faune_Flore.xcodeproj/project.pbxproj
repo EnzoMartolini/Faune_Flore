@@ -15,7 +15,6 @@
 		69E0E5D62AE12E9C008802A5 /* NavigationButton_Fini.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69E0E5D52AE12E9C008802A5 /* NavigationButton_Fini.swift */; };
 		69E0E5D82AE130B1008802A5 /* NavigationButton_Continuer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69E0E5D72AE130B1008802A5 /* NavigationButton_Continuer.swift */; };
 		69E0E5DA2AE13240008802A5 /* FiltreButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69E0E5D92AE1323F008802A5 /* FiltreButton.swift */; };
-		69E0E5DC2AE13B07008802A5 /* Models in Resources */ = {isa = PBXBuildFile; fileRef = 69E0E5DB2AE13B06008802A5 /* Models */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 		69E0E5D52AE12E9C008802A5 /* NavigationButton_Fini.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationButton_Fini.swift; sourceTree = "<group>"; };
 		69E0E5D72AE130B1008802A5 /* NavigationButton_Continuer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationButton_Continuer.swift; sourceTree = "<group>"; };
 		69E0E5D92AE1323F008802A5 /* FiltreButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FiltreButton.swift; sourceTree = "<group>"; };
-		69E0E5DB2AE13B06008802A5 /* Models */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Models; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +63,6 @@
 				69E0E5CF2AE120B2008802A5 /* App */,
 				69E0E5D02AE12511008802A5 /* Cellule */,
 				69E0E5CC2AE11FA4008802A5 /* Views */,
-				69E0E5DB2AE13B06008802A5 /* Models */,
 				69E0E5D22AE12546008802A5 /* ViewModel */,
 				69E0E5CD2AE1203D008802A5 /* Helpers */,
 				69E0E5C12AE11CF0008802A5 /* Assets.xcassets */,
@@ -182,7 +179,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				69E0E5DC2AE13B07008802A5 /* Models in Resources */,
 				69E0E5C62AE11CF0008802A5 /* Preview Assets.xcassets in Resources */,
 				69E0E5C22AE11CF0008802A5 /* Assets.xcassets in Resources */,
 			);
